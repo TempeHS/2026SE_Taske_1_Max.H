@@ -2,34 +2,6 @@
 
 # Lecture 2 - Loops
 
-## Dictionary of Terms
-1. Loop
-2. Interate
-3. While loop
-4. Do While loop
-5. For loop
-6. For Each loop
-7. Interupt
-8. Decrement
-9. Increment
-10. Does not
-11. Array (called a list in Python)
-12. Length
-13. Dictionary
-14. Key
-15. value
-16. Abstraction
-
-
-
-
-## Problems
-1. [Problem 2.1 - camelCase](PROBLEM2.1.md)
-2. [Problem 2.2 - Coke Machine](PROBLEM2.2.md)
-3. [Problem 2.3 - Just setting up my twttr](PROBLEM2.3.md)
-4. [Problem 2.4 - Vanity Plates](PROBLEM2.4.md)
-5. [Problem 2.5 - Nutrition Facts](PROBLEM2.5.md)
-
 ## Notes
 1. [Loops](#loops)
 2. [While Loops](#while-loops)

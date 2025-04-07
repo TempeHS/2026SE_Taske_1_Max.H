@@ -2,18 +2,6 @@
 
 # Lecture 1 - Conditionals
 
-## Dictionary of Terms
-1. Assignment
-2. Equality
-3. Conditional control structures
-4. Boolean
-5. `if` statement
-6. `if else` statement
-7. `if else if` statement
-8. `or` `and` `not` conditions
-9. modulo operator
-10. match case (switch case)
-
 ## Notes
 1. [Conditionals](#Conditionals)
 2. [if Statements](#if-statements)

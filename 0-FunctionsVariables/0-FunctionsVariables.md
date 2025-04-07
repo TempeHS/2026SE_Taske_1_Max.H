@@ -2,26 +2,6 @@
 
 # Lecture 0 - Functions & Variables
 
-## Dictionary of Terms
-1. Compilation
-2. Interpretation
-3. Terminal
-4. Function
-5. Argument
-6. Parameter
-7. Documentation
-8. Comments
-9. Variables
-10. Strings
-11. Interger
-12. Float
-13. Parenthasis
-14. Square Brackets
-15. format string
-16. Define
-17. Variable scope
-18. return (value)
-
 ## Notes
 1. [Creating Code with Python](#creating-code-with-python)
 2. [Functions](#functions)

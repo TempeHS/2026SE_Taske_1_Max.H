@@ -2,27 +2,6 @@
 
 # Lecture 3 - Exceptions
 
-## Dictionary of Terms
-1. Exception
-2. Syntax Error
-3. Unterminated
-4. Literal
-5. Runtime errors
-6. Corner case
-7. Value error
-8. Input error
-8. try & except
-9. Name error
-10. Break
-11. Return
-12. Pass
-
-## Problems
-1. [Problem 3.1 - Fuel Gauge](PROBLEM3.1.md)
-2. [Problem 3.2 - Felipe’s Taqueria](PROBLEM3.2.md)
-3. [Problem 3.3 - Grocery List](PROBLEM3.3.md)
-4. [Problem 3.4 - Outdated](PROBLEM3.4.md)
-
 ## Notes
 [Exceptions](#exceptions)
 [Runtime Errors](#runtime_errors)
