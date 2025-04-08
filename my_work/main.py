@@ -16,7 +16,7 @@ if menu_options == "1":
                 username, password = line.rstrip().split(",")
                 password = password.strip()
                 # print(f"{username},{password}")
-                #get the index
+                #get the index of the username
                 index = login_password[1]
                 #checks if password is in the value corrosponding the the username, dosent work :( properly
                 for line in index:
